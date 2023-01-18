@@ -1,0 +1,54 @@
+
+.clase__texto{
+    color: rgb(0, 0, 0);
+}
+
+   
+.clase__centrar{
+    text-align: center;
+    }
+
+.claseh2{
+    color: tomato;
+        }
+
+.clasea{
+    text-decoration: none;
+     font-weight: bold;
+        }
+
+.clase__principal{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+
+
+}
+
+
+.clase__venta{
+    font-size: 26px;
+    margin-top: 40px;
+    text-transform: uppercase;
+   text-shadow: 15px;
+}
+
+.clase__principal{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+
+.click__aca{
+    background-color: gold;
+    font-size: xx-large;  
+    text-align: center;
+    font-weight: bold;
+}
